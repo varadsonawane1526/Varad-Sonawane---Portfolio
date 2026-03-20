@@ -510,7 +510,7 @@ nav a {
 
 #section2 img {
     position: absolute;
-    top: 70%;
+    top: 66%;
     left: 5%;
     height: 200px;
     will-change: transform;
@@ -2126,7 +2126,7 @@ nav a {
 }
 
 .socialv1 a {
-    font-size: 20px;
+    font-size: 15px;
     cursor: pointer;
     text-decoration: none;
     color: white;
