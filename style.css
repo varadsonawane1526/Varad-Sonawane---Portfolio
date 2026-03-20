@@ -399,17 +399,17 @@ nav a {
     }
 
     .center-part1 h1 {
-        font-size: 35px;
+        font-size: 32px;
     }
 
     .center-part1 h2 {
-        font-size: 27px;
+        font-size: 25px;
         white-space: nowrap;
         margin-top: -10px;
     }
 
     .center-part1 p {
-        font-size: 15px;
+        font-size: 13px;
         margin-top: -5px;
     }
 
@@ -547,16 +547,18 @@ nav a {
 
 @media (max-width:768px) {
     #section2{
-        height: 50vh;
+        height: 100vh;
+        
     }
 
     #section2 h1 {
         font-size: 36vw;
+          transform: translateY(80%);
     }
 
     #section2 img {
         height: 100px;
-        top: 55%;
+        top: 200%;
         left: 20%;
     }
 
@@ -1437,12 +1439,12 @@ nav a {
     }
 
     .aboutmev1 h1 {
-        font-size: 32px;
+        font-size: 30px;
         margin-left: 0;
     }
 
     .aboutmev1 p {
-        font-size: 15px;
+        font-size: 13px;
         margin: 10px 20px 0 20px;
     }
 
@@ -1470,7 +1472,7 @@ nav a {
     .aboutmepart1 img,
     .aboutme3part1 img {
         height: auto;
-        width: 58%;
+        width: 48%;
         margin-left: 0;
     }
 
@@ -1492,21 +1494,21 @@ nav a {
     }
 
     .varadtitlev1v1 h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
 
     /* subtitle */
 
     .aboutmepart2 h2 {
-        font-size: 20px;
+        font-size: 18px;
     }
 
 
     /* paragraph */
 
     .aboutmepart2 p {
-        font-size: 11px;
+        font-size: 10px;
     }
 
 
