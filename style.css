@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+   
 }
 
 html,
 body {
     overflow-x: hidden;
     scroll-behavior: smooth;
+     font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -669,13 +670,13 @@ nav a {
 
 #zomato img {
     height: 200px;
-    width: 300;
+    width: 300px;
 }
 
 #gymx img {
     margin-top: 30px;
     height: 200px;
-    width: 300;
+    width: 300px;
 }
 
 
